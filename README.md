@@ -9,7 +9,8 @@ Currently I'm a Software Engineering student and learning full-stack development
 
 ## ✅ Stacks I feel comfortable
 ### 🌐 Web development
-#### React JS  | Redux | Typescript | Node JS | Javascript ES6+ | HTML 5 | CSS 3 | Styled Components | SASS - SCSS | Bootstrap 5 
+#### React JS  | Redux | Typescript | HTML 5 | CSS 3 | Styled Components | SASS - SCSS | Bootstrap 5 
+#### Javascript ES6+ | Node JS | Express JS | Nest JS | MongoDB | Postgresql
 #### APIs REST and GraphQL | test with Jest | Testing Library
 #### GIT | Gitflow | Scrum | Jira 
 <br>
@@ -21,7 +22,7 @@ Currently I'm a Software Engineering student and learning full-stack development
 
 
 ## 📖 Stacks I'm currently studying
-#### React Native | Firebase | Node JS | Mongo DB and Postgresql
+#### React Native | Firebase | Node JS | Next JS | Mongo DB and Postgresql
 <br>
 
 
