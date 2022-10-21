@@ -22,7 +22,7 @@ Currently I'm a Software Engineering student and learning full-stack development
 
 ## 📖 Stacks I'm currently studying
 #### React Native | Firebase | Node JS | Mongo DB and Postgresql
-<br><br>
+<br>
 
 
 ## Current Project
