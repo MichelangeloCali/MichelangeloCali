@@ -18,7 +18,7 @@ ___
 <br>
 
 ### 📱 Mobile development
-#### React Native | Firebase | 
+#### React Native | Firebase | Flipper 
 
 <br>
 
