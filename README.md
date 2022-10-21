@@ -17,7 +17,7 @@ Currently I'm a Software Engineering student and learning full-stack development
 
 ### 📱 Mobile development
 #### React Native | Firebase | Flipper 
-<br><br>
+<br>
 
 
 ## 📖 Stacks I'm currently studying
