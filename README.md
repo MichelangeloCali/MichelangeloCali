@@ -40,7 +40,7 @@ ___
 <br>
 
 ## Current Project
-🔨 I'm currently working on my project [Part.](https://github.com/MichelangeloCali/petcapitu-front)
+🔨 I'm currently working on my project [PetCapitu.](https://github.com/MichelangeloCali/petcapitu-front)
 
 
 <br>
