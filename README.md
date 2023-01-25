@@ -10,7 +10,7 @@ Currently I'm a Software Engineering student and learning full-stack development
 ## ✅ Stacks I feel comfortable
 ### 🌐 Web development
 #### React JS | Typescript | Next JS | Redux | Zustand | Styled Components | SASS - SCSS | HTML 5 | CSS 3  
-#### Node JS | Express JS | Nest JS | MongoDB | Postgresql
+#### Node JS | Express JS | MongoDB | Postgresql
 #### APIs REST and GraphQL | test with Jest | React Testing Library
 #### GIT | Gitflow | Scrum | Jira 
 <br>
@@ -20,7 +20,3 @@ Currently I'm a Software Engineering student and learning full-stack development
 #### React Native | Firebase | Flipper | Expo
 <br>
 
-
-## Current Project
-🔨 I'm currently working on my project [PetCapitu.](https://github.com/MichelangeloCali/petcapitu-front)
-<br><br>
