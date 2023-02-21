@@ -9,14 +9,14 @@ Currently I'm a Software Engineering student and learning full-stack development
 
 ## ✅ Stacks I feel comfortable
 ### 🌐 Web development
-#### React JS | Typescript | Next JS | Redux | Zustand | Styled Components | SASS - SCSS | HTML 5 | CSS 3  
-#### Node JS | Express JS | MongoDB | Postgresql
+#### React JS | Typescript | Next JS | Redux | Zustand | Styled Components | Chakra UI | SASS - SCSS | HTML 5 | CSS 3  
+#### Node JS | Express JS | Nest JS | MongoDB | Postgresql
 #### APIs REST and GraphQL | test with Jest | React Testing Library
 #### GIT | Gitflow | Scrum | Jira 
 <br>
 
 
 ### 📱 Mobile development
-#### React Native | Firebase | Flipper | Expo
+#### React Native | Expo | Firebase | Flipper
 <br>
 
