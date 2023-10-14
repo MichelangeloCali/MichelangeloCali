@@ -1,5 +1,5 @@
 # Hi there, I'm Michelangelo Cali 👨🏻‍💻
-Currently I'm a Software Engineering student and learning full-stack development. I'm also a Bachelor of Law, yes I made a career transition last year and I can say it was the best choice I ever made. Want to get to know me better beyond my projects? You can contact me on the following platforms:
+I'm a Software Engineering and have experience as a full-stack developer
 
 [![Email](https://img.shields.io/badge/-Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&mailto:michelangelocali@hotmail.com)](mailto:michelangelocali@hotmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/michelangelocali/)](https://www.linkedin.com/in/michelangelocali/)
@@ -7,16 +7,29 @@ Currently I'm a Software Engineering student and learning full-stack development
 <br><br>
 
 
-## ✅ Stacks I feel comfortable
 ### 🌐 Web development
-#### React JS | Typescript | Next JS | Redux | Zustand | Styled Components | Chakra UI | SASS - SCSS | HTML 5 | CSS 3  
-#### Node JS | Express JS | Nest JS | MongoDB | Postgresql
-#### APIs REST and GraphQL | test with Jest | React Testing Library
+
+#### Front-end:
+
+React JS • Typescript • Next JS • Next Auth • Styled Components • SASS • MUI 5 • HTML 5 • CSS 3
+
+
+#### Back-end:
+Node JS • Typescript • Express JS • Nest JS • Prisma ORM • Keycloak • MongoDB • MySQL • Swagger documentation
+
+
+#### Integration: 
+REST full APIs • GraphQL 
+
+
+#### Best practices such as: 
+Unit Testing using Jest • React Testing Library • Clean Code • Clean Architecture • SOLID
+
 #### GIT | Gitflow | Scrum | Jira 
 <br>
 
 
 ### 📱 Mobile development
-#### React Native | Expo | Firebase | Flipper
+React Native • Expo • Firebase • Google Analytics
 <br>
 
