@@ -11,11 +11,11 @@ I'm a Software Engineering and have experience as a full-stack developer
 
 #### Front-end:
 
-React JS • Typescript • Next JS • Next Auth • Styled Components • SASS • MUI 5 • HTML 5 • CSS 3
+Typescript • React.js • Next.js • Next Auth • Styled Components • SASS • MUI 5 • HTML 5 • CSS 3
 
 
 #### Back-end:
-Node JS • Typescript • Express JS • Nest JS • Prisma ORM • Keycloak • MongoDB • MySQL • Swagger documentation
+Typescript • Node.js • Express.js • Nest.js • Prisma ORM • Keycloak • MongoDB • MySQL • Swagger documentation
 
 
 #### Integration: 
