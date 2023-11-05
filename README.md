@@ -23,7 +23,7 @@ REST full APIs • GraphQL
 
 
 #### Best practices such as: 
-Unit Testing using Jest • React Testing Library • Clean Code • Clean Architecture • SOLID
+Unit Testing using Jest • React Testing Library • Clean Code • SOLID • Clean Architecture • DDD
 
 #### GIT | Gitflow | Scrum | Jira 
 <br>
